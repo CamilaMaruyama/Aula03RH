@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Camila\\DS-Luiz\\Aula03RH\\Aula03RH.csproj": {}
+    "D:\\Camila\\DS-Luiz\\CloneA03\\Aula03RH\\Aula03RH.csproj": {}
   },
   "projects": {
-    "D:\\Camila\\DS-Luiz\\Aula03RH\\Aula03RH.csproj": {
+    "D:\\Camila\\DS-Luiz\\CloneA03\\Aula03RH\\Aula03RH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Camila\\DS-Luiz\\Aula03RH\\Aula03RH.csproj",
+        "projectUniqueName": "D:\\Camila\\DS-Luiz\\CloneA03\\Aula03RH\\Aula03RH.csproj",
         "projectName": "Aula03RH",
-        "projectPath": "D:\\Camila\\DS-Luiz\\Aula03RH\\Aula03RH.csproj",
+        "projectPath": "D:\\Camila\\DS-Luiz\\CloneA03\\Aula03RH\\Aula03RH.csproj",
         "packagesPath": "D:\\NugetPackages",
-        "outputPath": "D:\\Camila\\DS-Luiz\\Aula03RH\\obj\\",
+        "outputPath": "D:\\Camila\\DS-Luiz\\CloneA03\\Aula03RH\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
